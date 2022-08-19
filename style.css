@@ -160,7 +160,7 @@ nav ul li a:hover{
 
 
 .aboutP .about{
-    font-size:30px;
+    font-size:20px;
     font-family: Arial, sans-serif;
     color:#FCBF49;
     margin-bottom: 15px;
@@ -171,7 +171,7 @@ nav ul li a:hover{
 }
 .aboutP  .email{
     text-decoration: none;
-    font-size: 25px;
+    font-size: 10px;
     font-family: 'handwriting', Arial, sans-serif;
     color:#F77F00;
 }
